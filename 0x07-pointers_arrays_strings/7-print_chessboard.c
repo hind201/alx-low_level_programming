@@ -1,5 +1,5 @@
 #include "main.h"
-#include "_putchar.c"
+
 /**
  * print_chessboard - prints chessboard.
  *
@@ -18,4 +18,4 @@ void print_chessboard(char (*a)[8])
 		}
 		_putchar('\n');
 	}
-}
+
